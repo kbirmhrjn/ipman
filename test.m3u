@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC+
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/amc.plus.us.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports Premiere League
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJ-r5aJ37OTm_JngWDQ6IZg/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Sky Sports F1 HD
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SKOYAP8Ooss_79JCq2inqso/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBP8IcIFQjkd_4CiXkvhKnU/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Sport",Sky Sports F1
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/265?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Sport",Sky Sports Racing
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/163132?checkedby:iptvcat.com
